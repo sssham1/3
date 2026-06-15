@@ -1,0 +1,9 @@
+pytest
+pytest-selenium
+selenium
+webdriver-manager
+pytest-html
+pytest-xdist
+pytest-rerunfailures
+taiga
+python-taiga
