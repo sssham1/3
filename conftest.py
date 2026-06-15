@@ -25,11 +25,11 @@ def generate_a_email(min_a=1, max_a=30, domain="gmail.com"):
     return f"{name}@{domain}"
 
 TOKEN = "token"
-PROJECT_ID = 1794247
-PRIORITY_ID = 5386321
-SEVERITY_ID = 8965835
-STATUS_ID = 12560224
-TYPE_ID = 5398771
+PROJECT_ID = ''
+PRIORITY_ID = ''
+SEVERITY_ID = ''
+STATUS_ID = ''
+TYPE_ID = ''
 
 def upload_attachment(issue_id, file_path):
     headers = {
